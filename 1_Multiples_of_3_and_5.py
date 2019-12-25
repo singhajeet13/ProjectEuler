@@ -18,3 +18,7 @@ for a0 in range(t):
     sumList.append(sum)
 
 [print(sum) for sum in sumList]
+
+#--------------------------------------------------------------------------------------------------------------
+#           60.00 points. test case -3 and 2 failed due to "Your code did not execute within the time limits"
+#----------------------------------------------------------------------------------------------------------------
